@@ -1,0 +1,85 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/errors/.a3c3bbcb6bff5fc52dcafd4800fac0fed4b39af3-audit.json",
+  "files": [
+    {
+      "date": 1686299835073,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/errors/phu-2023-09-06-14-error.log",
+      "hash": "b1fe97241799c73a6a0cc614f3eccfd8486883d87a76d015d6937dcc00de68f3"
+    },
+    {
+      "date": 1686383269003,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/errors/phu-2023-10-06-13-error.log",
+      "hash": "ca6701bacb47333783250aafad7bf8b04cbc90becc8ff9858911297efb22ad35"
+    },
+    {
+      "date": 1686384088502,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/errors/phu-2023-10-06-14-error.log",
+      "hash": "cd7045b8fed8e72c2232e6e2977c9e4dea95c68bea4800dbd8517a8c8f63caae"
+    },
+    {
+      "date": 1686390444930,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/errors/phu-2023-10-06-15-error.log",
+      "hash": "039a81922d9ec0a28d71df45bd8ecd90db2bf6b5ed9aa761465257981750f704"
+    },
+    {
+      "date": 1686391738763,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/errors/phu-2023-10-06-16-error.log",
+      "hash": "4e0a50a7d3b016020b97a49522fbb3c0e283f837922286b5eeb9f8298bc9ce14"
+    },
+    {
+      "date": 1686403286050,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/errors/phu-2023-10-06-19-error.log",
+      "hash": "bc152b258c15bacd110f5464a1b64f031ef114df1387c5a21b47d7383112501a"
+    },
+    {
+      "date": 1686407855366,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/errors/phu-2023-10-06-20-error.log",
+      "hash": "5e9ca91b9eaeddc49871cc9502e9fd2df0eaeba2c6165d94455eaaf3d28268ae"
+    },
+    {
+      "date": 1686840935617,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/errors/phu-2023-15-06-20-error.log",
+      "hash": "c9a5e05a11791330a4bf156c97ef46c8ed51fa7b093696f296794bf5a15330d8"
+    },
+    {
+      "date": 1686843780873,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/errors/phu-2023-15-06-21-error.log",
+      "hash": "5d881ebe369f25c243d7dedb0482985095da14eff18b28407db41546f2796e3c"
+    },
+    {
+      "date": 1686844802895,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/errors/phu-2023-15-06-22-error.log",
+      "hash": "74f42c953e463933e1dd3eff151ed84494130dbc7d2784bb1fd8c9f3770c8169"
+    },
+    {
+      "date": 1686848618329,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/errors/phu-2023-15-06-23-error.log",
+      "hash": "7c0d9930e1e3b297e975dd6048956e304c3fec9c5104d04f6ebcd03d9e6d1108"
+    },
+    {
+      "date": 1686852040535,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/errors/phu-2023-16-06-00-error.log",
+      "hash": "68a3bac8c48c75299695d03095c6c80212dc4068edd08a8d6fe43d393dc7eebd"
+    },
+    {
+      "date": 1686857826954,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/errors/phu-2023-16-06-01-error.log",
+      "hash": "f8c4fe34a60d22f1d4c7692e95606feeb102726fffb6ba0869d55cc2abc50656"
+    },
+    {
+      "date": 1686859207600,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/errors/phu-2023-16-06-02-error.log",
+      "hash": "b51a38a2d1a93b7dd4285675520cef167a0adff681a268b62342ea5281f10100"
+    },
+    {
+      "date": 1686863782539,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/errors/phu-2023-16-06-03-error.log",
+      "hash": "a5935088289f996ebe6fd846c4dfa9126c4b2bbf55a32b1c2fb139c73b8ba7ec"
+    }
+  ],
+  "hashType": "sha256"
+}

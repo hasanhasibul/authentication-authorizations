@@ -1,0 +1,120 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/.541abcb4c4d830f1e86b81d4dc289f8293131da3-audit.json",
+    "files": [
+        {
+            "date": 1691686957878,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-10-08-23-success.log",
+            "hash": "e2014edf95eec4fa3bb52e175ebf4e82c9fc57ac2b2f1a2bacd9fbe0cc627954"
+        },
+        {
+            "date": 1691693916854,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-11-08-00-success.log",
+            "hash": "9624b1f206037c78e361c9199db1b7d5eb2594c4aaab41f73926fa8ab65390e2"
+        },
+        {
+            "date": 1691694165994,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-11-08-01-success.log",
+            "hash": "ef6d0f7cb7bac73c9e09a094bef67d4dd53cec2441306f544e8eba44f80666cc"
+        },
+        {
+            "date": 1691697743462,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-11-08-02-success.log",
+            "hash": "082fc1b97e360a5969f19fd4fe5c2eaad64663df53b890f9825ae882c73791cb"
+        },
+        {
+            "date": 1691705706243,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-11-08-04-success.log",
+            "hash": "2c64cb2d5112ff24edd7644b695bb3a71067591edc4be3247226aa7ebe208a01"
+        },
+        {
+            "date": 1691740271905,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-11-08-13-success.log",
+            "hash": "e2ca5ec52bf47ae539e27ac2d52d1191579a10ac2bd95a1b1954d541418e0d8b"
+        },
+        {
+            "date": 1691816908727,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-12-08-11-success.log",
+            "hash": "1316949b2aa30c5fdcb981e21539d2c0cad904fd31f08009fac4bb1fd7367f62"
+        },
+        {
+            "date": 1691905467058,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-13-08-11-success.log",
+            "hash": "bf4cb161bbb86e0b9f1e4992102fecc14229dd69d4f944863e0a77b2e1d45b33"
+        },
+        {
+            "date": 1691906557709,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-13-08-12-success.log",
+            "hash": "08393c8a1000dc67b641fb5fffa4a4cbe1a1b75fd44fb4ed6452dcfd6e4be583"
+        },
+        {
+            "date": 1691920525048,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-13-08-15-success.log",
+            "hash": "34a2f460f24bd23de4cbc34f3864fc0c4a10d7ac645b39718915a8e52f653a7d"
+        },
+        {
+            "date": 1691920800859,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-13-08-16-success.log",
+            "hash": "3244fa5dd349f2104c4cb374de3baafcb19afc972adbcb0e8bd23baef329303c"
+        },
+        {
+            "date": 1691925079760,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-13-08-17-success.log",
+            "hash": "f00b85aeddd49c32e7701940e382cbb4bb3a6492a2ee6c3df5c7426f9fc5fad9"
+        },
+        {
+            "date": 1692164402997,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-16-08-11-success.log",
+            "hash": "460e1da30e7713db7742cca8cec4419e9edaca3f07fc81666dd60fc41b7fbe61"
+        },
+        {
+            "date": 1692165694900,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-16-08-12-success.log",
+            "hash": "0553a81255d6d82df4e1f98ac0e133aca34a596d98f55ca3452aaefc715814aa"
+        },
+        {
+            "date": 1692169234696,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-16-08-13-success.log",
+            "hash": "b43f7a2356c8b55849aebca438a60e70d09855015eb48bd5a6166fc0960d4ab2"
+        },
+        {
+            "date": 1692174732522,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-16-08-14-success.log",
+            "hash": "d49ff258764179f65210e903f2e111d3a05aca5ed26f73fcc25bfabf9fdd3133"
+        },
+        {
+            "date": 1692181291796,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-16-08-16-success.log",
+            "hash": "65eac315ed641b118d6171d3219ae9c5b81b024fc49e1a87abae0785a12167c1"
+        },
+        {
+            "date": 1692185039539,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-16-08-17-success.log",
+            "hash": "d0437c5c5f87547e47a907424920d5bc0e4880f4ffc2732df9f8b9e0b4f009dd"
+        },
+        {
+            "date": 1692515668898,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-20-08-13-success.log",
+            "hash": "63ed8f37970db4e2102c5f4fa1bda780166eeae59fffafeb040f824294aa1a2f"
+        },
+        {
+            "date": 1692525324393,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-20-08-15-success.log",
+            "hash": "0c8b02bea1d6a6d63bf6c5620fc40f5d9325751dff90ad4cf00036b90ad56a28"
+        },
+        {
+            "date": 1692526523086,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-20-08-16-success.log",
+            "hash": "beb5b06991c26409e1c99e825f17899acf9dda99926a42c438ff6b008bc8d386"
+        },
+        {
+            "date": 1692529207404,
+            "name": "/home/hasib/Documents/practice/next-level-project/assignement/digital-cow-hut-authentications/logs/winston/successes/phu-2023-20-08-17-success.log",
+            "hash": "fbbcb5ffd39c7f9618a66f1078108a0887c8a4fe3c028ad4e937a3ef1e4bc32e"
+        }
+    ],
+    "hashType": "sha256"
+}

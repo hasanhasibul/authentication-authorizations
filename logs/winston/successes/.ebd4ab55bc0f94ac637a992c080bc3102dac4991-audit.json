@@ -1,0 +1,85 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/successes/.ebd4ab55bc0f94ac637a992c080bc3102dac4991-audit.json",
+  "files": [
+    {
+      "date": 1686299835071,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/successes/phu-2023-09-06-14-success.log",
+      "hash": "1ae653630fd93a764ea8e71fa60a49ebad524d9d1c28dea6a7ccd4f89956b3ad"
+    },
+    {
+      "date": 1686383269000,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/successes/phu-2023-10-06-13-success.log",
+      "hash": "ffb5eb2833fe0d61c42ba93af8b48ed69250e1bf69c1e2605e60ccfe99bbca7c"
+    },
+    {
+      "date": 1686384062862,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/successes/phu-2023-10-06-14-success.log",
+      "hash": "7830c1f9ce162aad9a771db81486f506913f148f13a9ca43a0a53f851fdaec55"
+    },
+    {
+      "date": 1686389017123,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/successes/phu-2023-10-06-15-success.log",
+      "hash": "ba93d2e36e0e276a5d2cbd1d2dc410a2678f658253ebe865626a6201e8f8fb08"
+    },
+    {
+      "date": 1686391738760,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/successes/phu-2023-10-06-16-success.log",
+      "hash": "7d8495bade43354abed570c095bbe9a5d17c5965139502ffbac147f2b759ce1a"
+    },
+    {
+      "date": 1686402477476,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/successes/phu-2023-10-06-19-success.log",
+      "hash": "ed5ff92b1058bdb11f29684a9eaa041266758489288790b5eca95c458da2bbe2"
+    },
+    {
+      "date": 1686407628683,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/successes/phu-2023-10-06-20-success.log",
+      "hash": "a5270704869c404bf9cf9685f55cec34c262bf2ef2256b2801ae0bd936b627b1"
+    },
+    {
+      "date": 1686840935614,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/successes/phu-2023-15-06-20-success.log",
+      "hash": "df336a0d7e623e4d4d44e739ac4da0bc9a40da19492a59596fd783b30b35fd32"
+    },
+    {
+      "date": 1686843251215,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/successes/phu-2023-15-06-21-success.log",
+      "hash": "77d71b8bab834a9195dd5f8712b6668d7b913d3fa1986dc0c7a6e0dfebf37cd1"
+    },
+    {
+      "date": 1686844802893,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/successes/phu-2023-15-06-22-success.log",
+      "hash": "af85e4c8c0d8c323084d58dcead288450764a0486372dd9e2552b83bc908cda0"
+    },
+    {
+      "date": 1686848618327,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/successes/phu-2023-15-06-23-success.log",
+      "hash": "19a528924d9dce76134776da0d68d04842f502ec02b7244e98e08bffc0a76955"
+    },
+    {
+      "date": 1686852040532,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/successes/phu-2023-16-06-00-success.log",
+      "hash": "b209aba0d966725b3deef4320777fc7115d4746f3e3697c8b5e51a48774a47ff"
+    },
+    {
+      "date": 1686857826951,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/successes/phu-2023-16-06-01-success.log",
+      "hash": "99459424fa23c4c169af875634354f5e0e63cd413576930f0fc932ba526f7295"
+    },
+    {
+      "date": 1686859207598,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/successes/phu-2023-16-06-02-success.log",
+      "hash": "16373eb55c6e39400539a2a13817e41a97e06db3c813124969a37263623c8882"
+    },
+    {
+      "date": 1686863782537,
+      "name": "/home/hasib/Documents/practice/next-level-project/university-management/logs/winston/successes/phu-2023-16-06-03-success.log",
+      "hash": "1b02fa9c7faf04eeefc52e25ba72a25ec645947225d4a79dcd5ecf97a92714e3"
+    }
+  ],
+  "hashType": "sha256"
+}

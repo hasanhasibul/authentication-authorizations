@@ -1,0 +1,150 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/.76a335bb07197fa8e46480578050e2ad396c565b-audit.json",
+  "files": [
+    {
+      "date": 1690134704412,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-23-07-23-success.log",
+      "hash": "e286eddf5dee043f8a51883dbb1c1e1eff7ed18ecbf7fa93f6f3642ec817f813"
+    },
+    {
+      "date": 1690138703284,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-24-07-00-success.log",
+      "hash": "d04a9c700cc01cf507602822e1450db451f8e01cd82308754684ef10a6956a89"
+    },
+    {
+      "date": 1690219486820,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-24-07-23-success.log",
+      "hash": "31063b7b46616301255650dd0748e91709d1fd023d758b010037dd1e60d77975"
+    },
+    {
+      "date": 1690221618381,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-25-07-00-success.log",
+      "hash": "a82e46ae9fbfc8faef12ac5e49e963e6a662dfe33a903b4d7c806cafdb2ab91d"
+    },
+    {
+      "date": 1690305281468,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-25-07-23-success.log",
+      "hash": "8fe008045934b19cac6d34854205720f8d54ec9a16fb40a8558942cd205eb7bb"
+    },
+    {
+      "date": 1690308734485,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-26-07-00-success.log",
+      "hash": "b4bbf86bbf9e70eca36b2c07f2c518ab505d4df9777bcfe0975b9f7af31ea056"
+    },
+    {
+      "date": 1690566162640,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-28-07-23-success.log",
+      "hash": "b09d6f742acc43ada4d309dd4e7441aac0eb9fb94a4434ee06db875032c75c0d"
+    },
+    {
+      "date": 1690614818155,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-29-07-13-success.log",
+      "hash": "56ac2728dc3ec711b42d00bf8d32840e3e99309140b4e5c6f5f07f7d047793f8"
+    },
+    {
+      "date": 1690617601479,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-29-07-14-success.log",
+      "hash": "4b818799441f003c5c70b0fd7e53ed62b3e3ff2b6409132b5024259e7f698ee9"
+    },
+    {
+      "date": 1690621384526,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-29-07-15-success.log",
+      "hash": "6ba27fda0aa2a8674289abc43720a3288d53a00b5ee4af0523e80f069bec44a1"
+    },
+    {
+      "date": 1690645490475,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-29-07-21-success.log",
+      "hash": "b4d7da5cd803ba62a1e5ac4d137664f4bc6d4e362766818dd24323f37b243d8e"
+    },
+    {
+      "date": 1690646447790,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-29-07-22-success.log",
+      "hash": "acfbcb04924f1653ebbbe2958178e041f9e192ff2b0d4f73aa9ed54e72a34264"
+    },
+    {
+      "date": 1690654616844,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-30-07-00-success.log",
+      "hash": "7eb95279867dd4d08f32a3ae5e8c87bb389d7dbb09178bdcf709e0aef6ef5694"
+    },
+    {
+      "date": 1690734341562,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-30-07-22-success.log",
+      "hash": "2e7b3051829cd91ff69a1eb473bcc7dd7c9b16b2fccb7f478c2a7560910a7ede"
+    },
+    {
+      "date": 1690738158089,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-30-07-23-success.log",
+      "hash": "9727523c57ff6f77872f236de274b14b91f28473b0bc6e74a86d8d9967eb8cb5"
+    },
+    {
+      "date": 1690820735259,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-31-07-22-success.log",
+      "hash": "b54d2562b16162a0acad99991b50605a6d590e107f44f6f7aab2b9faee54c1fb"
+    },
+    {
+      "date": 1690822897483,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-31-07-23-success.log",
+      "hash": "3f0cd8a8ccf865e2d81d9d7148047bf66c4b89a1d8c935217b9c7f557a715c68"
+    },
+    {
+      "date": 1690826408362,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-01-08-00-success.log",
+      "hash": "4c1af60fd588bf700b0ffca09ee5cc244aa3a23104668662f107da33f1955149"
+    },
+    {
+      "date": 1690907367877,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-01-08-22-success.log",
+      "hash": "a9ee00251ced26790afb76b97bd174ee91b698a519e539a279c13a67840e5890"
+    },
+    {
+      "date": 1690909222688,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-01-08-23-success.log",
+      "hash": "eb49909380d2e58a5d45e8c4b636f004602cdbf843a64efe423fbf8221259e1c"
+    },
+    {
+      "date": 1690912809121,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-02-08-00-success.log",
+      "hash": "10d9508aa564e8d8e73c5af6e166045f4a0a74064426643fd6410b543435a4ed"
+    },
+    {
+      "date": 1690991375907,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-02-08-21-success.log",
+      "hash": "8bf643b79efa646324d73abe33f38d3d1b7478a61ad183b91ac20443859003bf"
+    },
+    {
+      "date": 1690993699867,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-02-08-22-success.log",
+      "hash": "ff0eef2bbd8550eca7cc13cfd88afdf9588a1007d984e3c973ccc31fbfaa5b47"
+    },
+    {
+      "date": 1690997438078,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-02-08-23-success.log",
+      "hash": "499f21c46861d34991c092d3954b44f08c64375b6be5a5403d584df5400f1f4b"
+    },
+    {
+      "date": 1690999203971,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-03-08-00-success.log",
+      "hash": "447ada1f1428b45bfd5096236d9fe7fd7dfbed575d6ef3dcaa546a581a52c843"
+    },
+    {
+      "date": 1691174292339,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-05-08-00-success.log",
+      "hash": "2f45fb8148b8f23d5043c6987b73cbde8cd1e898e57bcab33f446b75fcba92e4"
+    },
+    {
+      "date": 1691176354223,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-05-08-01-success.log",
+      "hash": "bcca8f5eb64849221efae834c2523e09c226f9103ee2b7b640e532a8948f473a"
+    },
+    {
+      "date": 1691180330574,
+      "name": "/home/hasib/Documents/practice/next-level-project/assignement/Digital-Cow-Hut/logs/winston/successes/phu-2023-05-08-02-success.log",
+      "hash": "1398f3c887f0d1997862579c4cb0d1fdab76d874c497f0cfa369acb968113f85"
+    }
+  ],
+  "hashType": "sha256"
+}
